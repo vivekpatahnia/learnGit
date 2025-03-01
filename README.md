@@ -1,3 +1,3 @@
 # learnGit
 Learn Git 
-Author - Vivek 
+Author - Vivek New Git
