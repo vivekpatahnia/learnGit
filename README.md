@@ -1,2 +1,3 @@
 # learnGit
-Learning
+Learn Git 
+Author - Vivek 
